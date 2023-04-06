@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Chicago, Harris School of Public Policy"
-date: Spring 2022
+date: 2022-03-22
 location: "Chicago, IL"
 ---
 

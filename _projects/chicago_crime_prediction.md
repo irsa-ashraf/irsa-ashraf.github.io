@@ -8,4 +8,3 @@ date: 2023-01-01
 location: "Chicago, IL"
 ---
 
-Taught by [Professor Chrstopher Clapp](https://chrisclapp.org/) 

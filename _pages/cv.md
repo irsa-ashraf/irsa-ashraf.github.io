@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics with a minor in Global Studies, UCLA, 2018
+* M.S. in Computational Analysis and Public Policy, University of Chicago, 2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023: Data Science Consultant
+  * University of Chicago, Data Science Institute
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: Data Science Intern
+  * CyberCube Analytics
+ 
+* 2020 - 2021: Data Analyst
+  * NexDegree
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2019: Strategy and Data Analyst
+  * United Nations, Executive Office of the Secretary-General
+
   
-Talks
+Technical Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Langauges: Python (Pandas, Scikit-Learn, PyTorch, Keras, Boto3, Flask, Darts), AWS Athena, SQL, R 
+* Software and Tools: Git, Github, Linux, Amazon Web Services
+* Skills: Hypothesis Testing, Regression Models, Experiment Design, Linear Models, RCTs, Multivariate Analysis, Clustering, NLP
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* University of Chicago, Harris School of Public Policy
+  * Graduate Teaching Assistant - Machine Learning
+  * Taught by Professor Christpher Clapp, Spring 2023

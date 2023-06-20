@@ -41,4 +41,4 @@ Teaching
 ======
 * University of Chicago, Harris School of Public Policy
   * Graduate Teaching Assistant - Machine Learning
-  * Taught by Professor Christpher Clapp, Spring 2023
+  * Taught by Professor Christopher Clapp, Spring 2023

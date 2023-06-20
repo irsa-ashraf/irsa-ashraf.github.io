@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Toxic Language Filter"
+excerpt: "Using NLP techniques to detect toxic language on social media 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

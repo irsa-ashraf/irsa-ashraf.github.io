@@ -1,6 +1,6 @@
 ---
 title: "Neighborhood Quality of Life"
-excerpt: "Comparison of different Cicago neighborhoods based on amenities like libraries, Starbucks, pharmacies and murals"
+excerpt: "Analysis of different Chicago neighborhoods based on amenities like libraries, Starbucks, pharmacies and murals"
 collection: portfolio
 ---
 

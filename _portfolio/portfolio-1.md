@@ -1,6 +1,6 @@
 ---
 title: "Toxic Language Filter"
-excerpt: "Using NLP techniques to detect toxic language on social media 1<br/><img src='/images/500x300.png'>"
+excerpt: "Using NLP techniques to detect toxic language on social media 1<br/><img src='/images/final_poster.png'>"
 collection: portfolio
 ---
 

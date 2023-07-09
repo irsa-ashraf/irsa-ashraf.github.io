@@ -19,3 +19,5 @@ These particular amenities cover a broad array of what might make a neighborhood
 live: access to healthcare, education beyond schools, arts, and local gathering places/expected change in
 housing prices, respectively. We also estimate the Shannon Diversity Index to gain a better
 understanding of the diversity of reachable amenities from any point in the city.
+
+Project code can be found [here](https://github.com/irsa-ashraf/Analysis-of-Chicago-Neighborhoods-by-Amenities)

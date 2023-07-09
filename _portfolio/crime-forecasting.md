@@ -5,3 +5,6 @@ collection: portfolio
 ---
 
 This project compares the performance of different time series forecast models by using each model to forecast robberies in Chicago. Different metrics were checked to test for the stationarity of the dataset and trend and seasonality were removed from the data. We also used a Vector Autoregressive Model (VAR) with some other covariates to investigate their effect on robberies. 
+
+
+Project code can be found [here](https://github.com/irsa-ashraf/Forecasting-Robberies-in-Chicago)

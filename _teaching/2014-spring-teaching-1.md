@@ -8,6 +8,6 @@ date: 2022-03-22
 location: "Chicago, IL"
 ---
 
-Taught by [Professor Chrstopher Clapp](https://chrisclapp.org/) 
+Taught by [Professor Christopher Clapp](https://chrisclapp.org/) 
 
 

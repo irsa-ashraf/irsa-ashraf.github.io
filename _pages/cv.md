@@ -21,13 +21,16 @@ Work experience
   * University of Chicago, Data Science Institute
 
 * Summer 2022: Data Science Intern
-  * CyberCube Analytics
+  * CyberCube
  
 * 2020 - 2021: Data Analyst
   * NexDegree
 
 * 2019: Strategy and Data Analyst
   * United Nations, Executive Office of the Secretary-General
+
+* 2018 - 2019: Project Manager
+  * Los Angeles Blockchain Lab
 
   
 Technical Skills
@@ -42,3 +45,10 @@ Teaching
 * University of Chicago, Harris School of Public Policy
   * Graduate Teaching Assistant - Machine Learning
   * Taught by Professor Christopher Clapp, Spring 2023
+ 
+Volunteer Work
+======
+* University of Chicago, South Side Civic
+  * Executive Board Member: Organized the annual University wide Scopeathon and brought in 13 non-profits and 70 students to work on data-problems 
+* Insitute of Politics, TechTeam
+  * Team Leader: Partnered with a local non-profit and led a team of 6 students to create and implement a digital marketing campaign and website for the non-profit

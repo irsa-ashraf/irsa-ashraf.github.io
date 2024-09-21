@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* 2023 - Present: Backend Engineer
+  * Citigroup
+
 * Spring 2023: Data Science Consultant
   * University of Chicago, Data Science Institute
 

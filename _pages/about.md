@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist interested in machine learning, product analytics and technology policy. I attended the University of Chicago where I earned my [Masters in Computational Analysis and Public Policy](https://capp.uchicago.edu/), a degree jointly offered by the Department of Computer Science and the Harris School of Public Policy. 
-A self-taught Data Analyst, I have a diverse academic and professional background. I worked in the private sector primarily on sales forecasting, retail analytics and inventory analysis. Prior to this, I interned at the United Nations Executive Office of the Secretary-General and was part of the team that helped implement the [Strategy on New Technologies](https://www.un.org/en/newtechnologies/). 
-In the summer after my first year of graduate school, I worked on risk modelling at a cybersecurity company. 
-Some projects I have worked on range from forecasting crime in Chicago, clustering songs based on audio features using unsupervised learning, analysing and visualizing Yelp reviews for restaurants in New York City, and building the back-end of a software-as-a-service gene annotation application using AWS and Flask. 
-I have a background in Economics and Global Studies through a B.A. in Economics from UCLA. 
-In my free time, I like staying active by biking and strength training, and spending time with my family and close friends. 
+I’m a Data Scientist and Backend Engineer building production-grade analytics and AI-driven systems. I work across data science and software engineering, building ML pipelines, APIs, and analytics tools that make complex information easier to understand and act on.
 
+My experience includes enterprise analytics platforms and end-to-end ML workflows, with a growing focus on applied AI and agentic systems. Outside of work, I love building and shipping side projects, training for races, Solidcore, and staying active through sports like tennis and soccer. I’m especially interested in ideas at the intersection of technology, fitness, and consumer products.

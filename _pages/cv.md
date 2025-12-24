@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2023 - Present: Backend Engineer
+* 2023 - Present: Backend Software Engineer
   * Citigroup
 
 * Spring 2023: Data Science Consultant
@@ -32,14 +32,11 @@ Work experience
 * 2019: Strategy and Data Analyst
   * United Nations, Executive Office of the Secretary-General
 
-* 2018 - 2019: Project Manager
-  * Los Angeles Blockchain Lab
-
   
 Technical Skills
 ======
-* Langauges: Python (Pandas, Scikit-Learn, PyTorch, Keras, Boto3, Flask, Darts), AWS Athena, SQL, R 
-* Software and Tools: Git, Github, Linux, Amazon Web Services
+* Langauges: Python (Pandas, Scikit-Learn, PyTorch, Keras, Boto3, Flask, gRPC), SQL, R 
+* Software and Tools: Git, Github, Linux, Amazon Web Services, OpenShift
 * Skills: Hypothesis Testing, Regression Models, Experiment Design, Linear Models, RCTs, Multivariate Analysis, Clustering, NLP
 
   
